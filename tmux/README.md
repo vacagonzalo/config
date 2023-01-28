@@ -9,7 +9,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 Create a symbolic link in your user folder.
 
 ```bash
-ln -s ~/config/tmux/tmux.conf ~/.tmux.conf 
+ln -s ~/config/tmux/tmux.conf ~/.tmux.conf
 ```
 
 Start tmux and press:
